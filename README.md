@@ -25,7 +25,7 @@
 const atharva = {
   location: "India 🇮🇳",
   role: "Full-Stack Developer",
-  currentlyBuilding: "Food Delivery App 🍕",
+  currentlyBuilding: "EMS - Emoployee Management System",
   learning: ["React Native 📱"],
   askMeAbout: ["React", "TypeScript", "Figma", "UI/UX"],
   funFact: "I play games... but not that good at it! 😁",
